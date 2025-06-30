@@ -1,0 +1,9 @@
+.idea/
+*.iml
+*.xml
+inspectionProfiles/
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.env
